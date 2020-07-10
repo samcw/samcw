@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on *replacing the backbone of the yolo model with GhostNet*.
-- 🌱 I’m currently learning *typescript*.
+- 🌱 I’m currently learning *typescript and canvas*.
 - 🤔 I’m looking for help with *improving the speed of yolo model*.
 - 📫 How to reach me: Tsukihie@gmail.com
 
