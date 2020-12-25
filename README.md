@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on *writing my first paper in my graduate career*.
 - 🌱 I’m currently learning *how to make my react run faster*.
-- 🤔 I’m looking for help with *how to make my react run faster*, yes, if you know some articles good about it, please push them to me.
+- 🤔 I’m looking for help with *how to make my react run faster*, yes, if you know some articles good on it, please push them to me.
 - 📫 How to reach me: *Tsukihie@gmail.com*
 
 <!--
