@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on *replacing the backbone of the yolo model with GhostNet*.
-- 🌱 I’m currently learning *typescript and canvas*.
-- 🤔 I’m looking for help with *improving the speed of yolo model*.
+- 🔭 I’m currently working on *writing my first paper in my graduate career*.
+- 🌱 I’m currently learning *how to make my react run faster*.
+- 🤔 I’m looking for help with *how to make my react run faster*, yes, if you know some articles good about it, please push them to me.
 - 📫 How to reach me: *Tsukihie@gmail.com*
 
 <!--
