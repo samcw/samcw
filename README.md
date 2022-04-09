@@ -1,5 +1,3 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on *writing my first paper in my graduate career*.
-- 🌱 I’m currently learning *live video tech*.
-- 📫 How to reach me: *Tsukihie@gmail.com*
+I am currently working as a front-end developer in China and am interested in #looking for overseas job opportunities#.
+- 📫 Email: *Tsukihie@gmail.com*
